@@ -1,0 +1,17 @@
+#grid{
+    height: 600px;
+    width: 600px;  
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cell{
+    border: 2px solid black;
+    cursor: pointer;
+   /*  display: flex;
+    align-items: center;
+    justify-content: center; */
+}
